@@ -48,8 +48,8 @@
 
 | **Número de semana** | **Scrum Master** |
 | ---- | ---- |
-| :pencil: semana 1 | *Adan Gomez* |
-| :pencil: semana 2 | *Gonzalo Quiroga Sassu* |
+| :pencil: semana 1 | *Gonzalo Quiroga Sassu* |
+| :pencil: semana 2 | *Adan Gomez* |
 | :pencil: semana 3 | *Diego Alvarez* |
 | :pencil: semana 4 | *Natán Jabie* |
 | :pencil: semana 5 | *Hilda Yolanda Ortiz* |
