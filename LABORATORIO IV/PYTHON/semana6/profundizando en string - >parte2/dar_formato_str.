@@ -1,0 +1,37 @@
+# 6.1 parametro posicional de tipo string
+
+#dar formato a un string
+
+nombre = 'ariel'
+edad = 28
+mensaje_con_formato = "mi nombre es %$ y tengo %$anos" %(nombre, edad)
+print(mensaje_con_formato)
+
+# 6.2 avanzamos desde una tupla
+#creamos una tupla
+persona = ('carla', 'gonzales', 5000.00)
+mensaje_con_formato = 'hola %$ %$. Tu sueldo es %.2f' #%persona #aqui le pasamos el objeto que es tupla
+print(mensaje_con_formato % persona)
+
+# 6.3 uso del metodo format() -> utilizamos place holder
+# parte ->  1
+nombre = 'juan'
+edad = 18
+sueldo = 3000
+mensaje_con_formato = 'nombre {} edad {} sueldo {:2.f}'(nombre, edad, sueldo)
+print(mensaje_con_formato % persona)
+
+mensaje = 'nombre {0}, edad{1}, sueldo{2:.2f}'.format(nombre, edad sueldo)
+print(mensaje)
+
+#parte -> 2
+mensaje = 'nombre {0}, edad{1}, sueldo{2:.2f}'.format(nombre, edad sueldo)
+print(mensaje)
+
+#parte -> 3
+mensaje = 'nombre {n} edad {e} sueldo {s:.2f}'.format(n=nombre, e=edad, s=sueldo)
+print(mensaje)
+
+diccionario = {}
+mensaje = mensaje = 'nombre{persona[nombre]} edad{persona[edad]} sueldo{persona[sueldo]}'.format(persona=diccionario)
+print(mensaje)
