@@ -1,0 +1,9 @@
+# 6.4 Uso del template literal
+nombre = 'pedro'
+edad = 27
+sueldo = 3000
+mensaje = f'nombre{nombre} edad{edad} sueldo{sueldo:.2f)
+print(mensaje)
+
+6.5 Uso del método print() para dar formato en la salida
+print(nombre, edad, sueldo, sep=', ')
