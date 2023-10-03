@@ -1,5 +1,5 @@
 const modalContainer = document.getElementById("modal-container");
-const modalOverlay = document.getElementById("modal-overlar");
+const modalOverlay = document.getElementById("modal-overlay");
 
 const cartBtn = document.getElementById("cart-btn");
 
@@ -23,13 +23,13 @@ const displayCart = () => {
     const modalTitle = document.createElement("div");
     modalTitle.innerText = "Cart";
     modalTitle.className = "modal-title";
-    modalTitle.append(modalTitle);
+    modalHeader.append(modalTitle);
 
     modalContainer.append(modalHeader);
     
     //modal Body
     cart.forEach((product) => {
-        conts modalBody = document.createElement("div");
+        const modalBody = document.createElement("div");
         modalBody.className = "modal-body";
         modalBody.innerHTML = `
         <div class="product">
@@ -47,8 +47,45 @@ const displayCart = () => {
         </div>
         `;
         modalContainer.append(modalBody);
+
+        const decrese = modalBody.querySelector(".quantity-btn-decrese");
+        decrese.addEventListener("click", () => {
+            if(product.quanty !== 1){
+
+            }
+            product.quanty--;
+            displayCart();
+        });
+        const increse = modalBody.querySelector(".quantity-btn-increse");
+        increse.addEventListener("click", ()=> {
+            product.quanty++;
+            displayCart();
+        });
+
+       //delet
+       const deleteProduct = modalBody.querySelector(".delete-product"); 
+
+       deleteProduct.addEventListener("click", () => {
+        deletCartProduct(product.id);
+       });
     });
+
+    //modal Footer
+    const total = cart.reduce((acc, el) => acc + el.price * el.quanty, 0)
+
+    const modalFooter = document.createElement("div");
+    modalFooter.className = "modal-footer";
+    modalFooter.innerHTML = `
+    <div class="total-price">Total: ${total} </div>
+    `;
+    modalContainer.append(modalFooter);
 };
 
-
 cartBtn.addEventListener("click", displayCart);
+
+const deletCartProduct =(id)=> {
+    const foundId = cart.findIndex((element)=> element.id === id);
+    console.log(foundId);
+    cart.splice(foundId, 1);
+    displayCart();
+}
