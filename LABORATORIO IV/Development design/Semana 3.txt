@@ -1,1 +1,34 @@
+Clase correspondiente a la fecha: lunes, 4 de septiembre de 2023.
 
+Resumen de temas vistos
+
+Tipografía
+
+La tipografía en diseño web se refiere a la elección y el uso de fuentes de texto en una página web. La elección de tipografía influye en la legibilidad y la estética del sitio. Es importante considerar factores como el tamaño, el espaciado y la coherencia tipográfica en todo el diseño.
+
+Grillas y Layout
+
+Las grillas y el diseño de página son esenciales para organizar el contenido de un sitio web. Las grillas proporcionan una estructura ordenada que facilita la colocación de elementos, como texto e imágenes, en la página. El diseño de la página debe ser coherente y adaptarse a diferentes dispositivos y tamaños de pantalla.
+
+Style Guide
+
+Un "style guide" es un conjunto de directrices de diseño que establece reglas para la apariencia y el comportamiento de un sitio web. Incluye información sobre colores, tipografía, iconografía y otros elementos visuales. Ayuda a mantener la coherencia en el diseño a lo largo de todo el sitio.
+
+Themes
+
+Los "themes" se refieren a plantillas de diseño predefinidas que pueden aplicarse a un sitio web para cambiar su apariencia de manera rápida y sencilla. Los temas suelen incluir combinaciones de colores, estilos de fuente y elementos visuales que pueden personalizarse según las necesidades del sitio.
+
+Imágenes web
+
+Las imágenes y videos son elementos importantes en el diseño web. Deben estar optimizados para la web, lo que implica la compresión y el uso de formatos adecuados para garantizar una carga rápida de la página. Además, es esencial etiquetar y describir las imágenes correctamente para la accesibilidad.
+
+Gráficos en movimiento para la web
+
+Los gráficos en movimiento en la web se logran mediante CSS animado y transiciones. Estos elementos añaden interactividad y atractivo visual a un sitio. CSS permite crear efectos de transición suaves y animaciones que mejoran la experiencia del usuario.
+
+Repaso resumido del diseño
+
+Rrepaso general de los conceptos de diseño web abordados en la clase. Es una oportunidad para consolidar la comprensión de los temas anteriores y destacar la importancia de la coherencia y la adaptabilidad en el diseño web.
+
+Link proporcionado en el aula virtual (Anotaciones en Miro):
+https://miro.com/welcomeonboard/R2pnb1FFc0R0NDIwRDZJMlZPRHg2aVdIZTBuZDdRVTQwT0JWazRET21ZaG5vdVBRQU5iMlZ2MGZDNmVSZmF0bnwzNDU4NzY0NTU5OTg4NzM4NjI1fDI=?share_link_id=121172971053
