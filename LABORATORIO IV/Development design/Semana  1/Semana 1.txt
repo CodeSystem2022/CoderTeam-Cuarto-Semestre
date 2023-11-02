@@ -1,0 +1,17 @@
+Clase correspondiente a la fecha: lunes, 14 de agosto de 2023.
+
+Resumen de temas vistos
+
+Se brindan conceptos que asentaran las bases de lo que es el diseño:
+
+    El Proceso Creativo
+    
+    Seis Conceptos Básicos de la Composición en Diseño
+    
+    Diseño Responsivo (Responsive Design)
+    
+    Diferentes Metodologías en Diseño
+    
+    Consejos para la Accesibilidad y Diseño Web
+    
+    El Brief y los Requerimientos Técnicos

@@ -1,0 +1,19 @@
+Clase 11 Proyecto Matías Carballo Parte 1
+
+
+La carga de este proyecto entero al repositorio es opcional debido a las limitaciones de tiempo y la carga de trabajos que poseemos actualmente.
+Es fundamental ver la clase pero opcional su carga y realizacion en codigo
+
+Comenzamos con este proyecto realmente avanzado de la mano de Matías Carballo
+
+11.1 Introducción y presentación del proyecto
+
+11.2 Explicación del archivo porm.xml
+
+11.3 Explicación del archivo application.yml con variables de entorno
+
+11.4 Explicación Patrones de Diseño utilizados
+
+11.5 Explicación del Repository
+
+

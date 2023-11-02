@@ -1,0 +1,10 @@
+Clase correspondiente a la fecha:  lunes, 28 de agosto de 2023, 18:00.
+
+Durante la semana 2 solo hubo contenido informativo sin actividades a realizar:
+Comenzamos con algunas bases de lo que es el diseño...
+2.1 El proceso creativo, diseño UX
+Ahora vamos viendo diferentes imágenes usadas en los videos, este es el diagrama de flujo
+2.2 Continuamos con los wireframes
+2.3 Definición de diseño UI -> Diseño de interfaz del usuario
+2.4 Comenzamos con la teoría del color
+2.5 Continuamos con la teoría del color, aquí los RGB
